@@ -102,3 +102,5 @@ Conclusion
 
 The project successfully demonstrates how machine learning can be applied in agriculture for yield prediction. The Decision Tree model provides clear insights into the relationship between environmental factors and crop yield. While the model performs well, future improvements could include using ensemble methods like Random Forest or integrating real-time data such as satellite-based rainfall measurements.
 
+output:
+<img width="1957" height="1195" alt="Image" src="https://github.com/user-attachments/assets/ed54b10b-c668-4a77-8170-e7b330e434b1" />
